@@ -10,7 +10,10 @@ const config: types.ReactBricksConfig = {
   apiKey: process.env.API_KEY,
   pageTypes,
   bricks,
-  logo: '/logo.svg',
+  domain: 'https://2000Barnes.com',
+  title: '2000Barnes',
+  logo: '/2000-barnes-logo-1.svg',
+  icon: '/2000-barnes-icon.svg',
   // contentClassName: 'content', // Defined dynamically
   // isDarkColorMode: ...,        // in _app.tsx
   // toggleColorMode: ...,        // to manage Dark Mode
